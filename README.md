@@ -1,1 +1,1 @@
-Hello, you! I'm a fullstack developer in development :P
+Hello, you! I`m a computer engeenering student and beginner at MERN stack.
